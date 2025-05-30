@@ -1,0 +1,16 @@
+
+
+[org.mate.Marco.general]
+theme='Fluent-round-Dark'
+
+
+[org.mate.interface]
+gtk-theme='Fluent-round-Dark'
+icon-theme='Fluent-dark'
+#icon-theme='Numix-Circle'
+
+
+[org.mate.peripherals-mouse]
+cursor-theme='Fluent-dark-cursors'
+cursor-size=24
+
