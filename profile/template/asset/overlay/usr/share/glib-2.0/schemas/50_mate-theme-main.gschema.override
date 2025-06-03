@@ -1,16 +1,16 @@
 
 
 [org.mate.Marco.general]
-theme='Fluent-round-Dark'
+theme='Orchis-Dark'
 
 
 [org.mate.interface]
-gtk-theme='Fluent-round-Dark'
-icon-theme='Fluent-dark'
+gtk-theme='Orchis-Dark'
+icon-theme='Papirus-Dark'
 #icon-theme='Numix-Circle'
 
 
 [org.mate.peripherals-mouse]
-cursor-theme='Fluent-dark-cursors'
+cursor-theme='breeze_cursors'
 cursor-size=24
 
